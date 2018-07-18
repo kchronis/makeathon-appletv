@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Heading medium with text 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  ellipsizeMode="tail"
+  numberOfLines={0}
+  style={
+    Object {
+      "color": "#555",
+      "fontFamily": "HelveticaNeue",
+      "fontSize": 36,
+      "fontWeight": "bold",
+      "paddingBottom": 0,
+      "paddingTop": 0,
+      "textAlign": "center",
+    }
+  }
+>
+  Heading
+</Text>
+`;
+
+exports[`Heading small 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  ellipsizeMode="tail"
+  numberOfLines={0}
+  style={
+    Object {
+      "color": "#555",
+      "fontFamily": "HelveticaNeue",
+      "fontSize": 24,
+      "fontWeight": "bold",
+      "paddingBottom": 0,
+      "paddingTop": 0,
+      "textAlign": "center",
+    }
+  }
+/>
+`;

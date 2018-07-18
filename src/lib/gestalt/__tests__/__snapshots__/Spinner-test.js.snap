@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Spinner visible 1`] = `
+<PIReactNativeIndeterminateActivityIndicatorView
+  accessibilityLabel="Label Haha"
+  show={true}
+  style={
+    Array [
+      Object {
+        "height": 64,
+        "width": 64,
+      },
+      undefined,
+    ]
+  }
+/>
+`;

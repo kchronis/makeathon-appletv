@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button color="transparent" /> 1`] = `
+<View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
+  accessible={true}
+  hasTVPreferredFocus={undefined}
+  hitSlop={undefined}
+  isTVSelectable={true}
+  nativeID={undefined}
+  onLayout={undefined}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "transparent",
+      },
+      Array [
+        Object {
+          "alignItems": "center",
+          "borderRadius": 4,
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        Object {
+          "paddingHorizontal": 14,
+          "paddingVertical": 11,
+        },
+        Object {
+          "backgroundColor": undefined,
+        },
+        undefined,
+      ],
+    ]
+  }
+  testID={undefined}
+  tvParallaxProperties={undefined}
+>
+  <View>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      onLongPress={undefined}
+      onPress={undefined}
+      style={
+        Object {
+          "color": "#555",
+          "fontFamily": "HelveticaNeue",
+          "fontSize": 14,
+          "fontStyle": "normal",
+          "fontWeight": "bold",
+          "textAlign": "center",
+        }
+      }
+      suppressHighlighting={undefined}
+      testID={undefined}
+    >
+      Hello World
+    </Text>
+  </View>
+</View>
+`;

@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Switch 1`] = `
+<PIReactNativeSevenSwitch
+  borderColor={4290098613}
+  disabled={false}
+  inactiveColor={4290098613}
+  on={false}
+  onChange={[Function]}
+  onTintColor={4290578460}
+  onValueChange={[Function]}
+  shadowColor={undefined}
+  style={
+    Array [
+      undefined,
+      Object {
+        "height": 24,
+        "width": 40,
+      },
+    ]
+  }
+  thumbTintColor={4294967295}
+  tintColor={4290098613}
+/>
+`;
+
+exports[`Switch disabled 1`] = `
+<PIReactNativeSevenSwitch
+  borderColor={4290098613}
+  disabled={true}
+  inactiveColor={4290098613}
+  on={false}
+  onChange={[Function]}
+  onTintColor={4290578460}
+  onValueChange={[Function]}
+  shadowColor={undefined}
+  style={
+    Array [
+      undefined,
+      Object {
+        "height": 24,
+        "width": 40,
+      },
+    ]
+  }
+  thumbTintColor={4294967295}
+  tintColor={4290098613}
+/>
+`;
+
+exports[`Switch switched & disabled 1`] = `
+<PIReactNativeSevenSwitch
+  borderColor={4290098613}
+  disabled={true}
+  inactiveColor={4290098613}
+  on={false}
+  onChange={[Function]}
+  onTintColor={4290578460}
+  onValueChange={[Function]}
+  shadowColor={undefined}
+  style={
+    Array [
+      undefined,
+      Object {
+        "height": 24,
+        "width": 40,
+      },
+    ]
+  }
+  thumbTintColor={4294967295}
+  tintColor={4290098613}
+/>
+`;
+
+exports[`Switch switched 1`] = `
+<PIReactNativeSevenSwitch
+  borderColor={4290098613}
+  disabled={false}
+  inactiveColor={4290098613}
+  on={false}
+  onChange={[Function]}
+  onTintColor={4290578460}
+  onValueChange={[Function]}
+  shadowColor={undefined}
+  style={
+    Array [
+      undefined,
+      Object {
+        "height": 24,
+        "width": 40,
+      },
+    ]
+  }
+  thumbTintColor={4294967295}
+  tintColor={4290098613}
+/>
+`;

@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Icon has correct aria-hidden property applied when accessibilityLabel is an empty string 1`] = `
+<Image
+  accessibilityLabel=""
+  source={undefined}
+  style={
+    Array [
+      Object {
+        "height": 16,
+        "tintColor": "gray",
+        "width": 16,
+      },
+      undefined,
+    ]
+  }
+/>
+`;
+
+exports[`Icon renders 1`] = `
+<Image
+  accessibilityLabel="Add"
+  source={undefined}
+  style={
+    Array [
+      Object {
+        "height": 16,
+        "tintColor": "gray",
+        "width": 16,
+      },
+      undefined,
+    ]
+  }
+/>
+`;

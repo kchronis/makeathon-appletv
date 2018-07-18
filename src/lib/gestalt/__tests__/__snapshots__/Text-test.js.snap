@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text matching snapshot 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  ellipsizeMode="tail"
+  onLongPress={undefined}
+  onPress={undefined}
+  style={
+    Object {
+      "color": "#555",
+      "fontFamily": "HelveticaNeue",
+      "fontSize": 14,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "textAlign": "left",
+    }
+  }
+  suppressHighlighting={undefined}
+  testID={undefined}
+>
+  Some default text
+</Text>
+`;
+
+exports[`Text matching snapshot md and red 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  ellipsizeMode="tail"
+  onLongPress={undefined}
+  onPress={undefined}
+  style={
+    Object {
+      "color": "#BD081C",
+      "fontFamily": "HelveticaNeue",
+      "fontSize": undefined,
+      "fontStyle": "normal",
+      "fontWeight": "normal",
+      "textAlign": "left",
+    }
+  }
+  suppressHighlighting={undefined}
+  testID={undefined}
+>
+  Some default text
+</Text>
+`;

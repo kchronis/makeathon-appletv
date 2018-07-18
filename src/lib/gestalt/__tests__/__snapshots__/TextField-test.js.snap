@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextField TextField normal 1`] = `
+<TextInput
+  allowFontScaling={true}
+  autoCapitalize="sentences"
+  onBlur={[Function]}
+  onChange={[Function]}
+  onFocus={[Function]}
+  onSubmitEditing={[Function]}
+  placeholder={undefined}
+  placeholderTextColor="#B5B5B5"
+  secureTextEntry={false}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#EFEFEF",
+        "borderRadius": 4,
+        "color": "#555555",
+        "fontSize": 16,
+        "fontWeight": "bold",
+        "overflow": "hidden",
+        "paddingHorizontal": 14,
+        "paddingVertical": 10,
+      },
+      undefined,
+    ]
+  }
+  value={undefined}
+/>
+`;
+
+exports[`TextField TextField placeholder 1`] = `
+<TextInput
+  allowFontScaling={true}
+  autoCapitalize="sentences"
+  onBlur={[Function]}
+  onChange={[Function]}
+  onFocus={[Function]}
+  onSubmitEditing={[Function]}
+  placeholder="Placeholder"
+  placeholderTextColor="#B5B5B5"
+  secureTextEntry={false}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#EFEFEF",
+        "borderRadius": 4,
+        "color": "#555555",
+        "fontSize": 16,
+        "fontWeight": "bold",
+        "overflow": "hidden",
+        "paddingHorizontal": 14,
+        "paddingVertical": 10,
+      },
+      undefined,
+    ]
+  }
+  value={undefined}
+/>
+`;
+
+exports[`TextField TextField value 1`] = `
+<TextInput
+  allowFontScaling={true}
+  autoCapitalize="sentences"
+  onBlur={[Function]}
+  onChange={[Function]}
+  onFocus={[Function]}
+  onSubmitEditing={[Function]}
+  placeholder={undefined}
+  placeholderTextColor="#B5B5B5"
+  secureTextEntry={false}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#EFEFEF",
+        "borderRadius": 4,
+        "color": "#555555",
+        "fontSize": 16,
+        "fontWeight": "bold",
+        "overflow": "hidden",
+        "paddingHorizontal": 14,
+        "paddingVertical": 10,
+      },
+      undefined,
+    ]
+  }
+  value="Some Value"
+/>
+`;

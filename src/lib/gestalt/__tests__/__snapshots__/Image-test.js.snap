@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Image local matches snapshot 1`] = `
+<View>
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "transparent",
+          "position": "relative",
+        },
+      ]
+    }
+  >
+    <Image
+      onError={undefined}
+      onLoad={undefined}
+      source={
+        Object {
+          "testUri": "../../../src/lib/gestalt/__tests__/img/img1.png",
+        }
+      }
+      style={
+        Array [
+          Object {
+            "height": "100%",
+            "width": "100%",
+          },
+          undefined,
+        ]
+      }
+    />
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "transparent",
+          "position": "relative",
+        },
+      ]
+    }
+  >
+    <Image
+      onError={undefined}
+      onLoad={undefined}
+      source={
+        Object {
+          "testUri": "../../../src/lib/gestalt/__tests__/img/img2.png",
+        }
+      }
+      style={
+        Array [
+          Object {
+            "height": "100%",
+            "width": "100%",
+          },
+          undefined,
+        ]
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`Image matches snapshot 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "transparent",
+        "position": "relative",
+      },
+    ]
+  }
+>
+  <MSRRemoteImageView
+    imageURL={null}
+    onError={undefined}
+    onLayout={[Function]}
+    onLoad={undefined}
+    placeholderBackgroundColor={4292072403}
+    style={
+      Array [
+        Array [
+          Object {
+            "height": "100%",
+            "width": "100%",
+          },
+          undefined,
+        ],
+        null,
+      ]
+    }
+  />
+</View>
+`;

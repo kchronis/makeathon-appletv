@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders Flyout 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "position": "absolute",
+      },
+      Object {
+        "left": -9999,
+        "maxHeight": 1314,
+        "maxWidth": 730,
+        "top": -9999,
+      },
+      Object {
+        "zIndex": 9999,
+      },
+    ]
+  }
+>
+  <View
+    onLayout={[Function]}
+  >
+    <View
+      style={
+        Object {
+          "backgroundColor": undefined,
+          "borderRadius": 5,
+          "padding": 8,
+        }
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        onLongPress={undefined}
+        onPress={undefined}
+        style={
+          Object {
+            "color": "#fff",
+            "fontFamily": "HelveticaNeue",
+            "fontSize": 14,
+            "fontStyle": "normal",
+            "fontWeight": "bold",
+            "textAlign": "left",
+          }
+        }
+        suppressHighlighting={undefined}
+        testID={undefined}
+      >
+        I'm the content of this popover!
+      </Text>
+    </View>
+  </View>
+  <View
+    pointerEvents="box-none"
+    style={
+      Array [
+        Object {
+          "position": "absolute",
+        },
+        null,
+        Object {
+          "borderColor": undefined,
+        },
+      ]
+    }
+  />
+</View>
+`;

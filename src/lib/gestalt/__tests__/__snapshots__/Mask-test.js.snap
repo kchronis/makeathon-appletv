@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Mask matching snapshot 1`] = `
+<View
+  onLayout={[Function]}
+  style={
+    Array [
+      Object {
+        "borderRadius": 0,
+        "overflow": "hidden",
+      },
+      Object {
+        "height": undefined,
+        "width": undefined,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "height": 100,
+        "width": 100,
+      }
+    }
+  />
+</View>
+`;
